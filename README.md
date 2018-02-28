@@ -9,3 +9,6 @@
 3、[Vue+Node+MongoDB从开发到正式部署](https://github.com/tang902/vueRelease)
 
 4、[vue+less构建的移动端网页专题](https://github.com/tang902/vuezt1)
+
+5、[微信小程序豆瓣电影](https://github.com/tang902/doubanmovie)
+
