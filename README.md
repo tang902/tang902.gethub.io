@@ -13,3 +13,5 @@
 5、[微信小程序豆瓣电影](https://github.com/tang902/doubanmovie)
 
 6、[TodoList-vue 任务管理器](https://github.com/tang902/todos.git)
+
+7、[微信小程序天气预报](https://github.com/tang902/weather.git)
